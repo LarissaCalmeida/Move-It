@@ -26,6 +26,10 @@ Você será desafiado a fazer um exercício a cada ciclo finalizado e após conc
 ## :computer: Como executar o projeto:
 
 ```sh
+
+#Instale o Yarn caso não tenha 
+npm install -g yarn
+
 #Clone o repositório
 git clone https://github.com/LarissaCalmeida/Move-It
 
@@ -33,9 +37,9 @@ git clone https://github.com/LarissaCalmeida/Move-It
 cd Move-It
 
 #Instale as dependências
-npm install -g yarn
+npm install
 
-#Execute
+#Execute o Projeto
 yarn dev
 
 #Acesse http://localhost:3000 em seu navegador
