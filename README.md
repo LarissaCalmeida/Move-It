@@ -1,58 +1,45 @@
 # Move It
-> Descrição curta sobre o que seu projeto faz.
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Às vezes passamos horas e mais horas trabalhando na tela do computador e não paramos para movimentar o corpo ou fazer algum exercício. O moveIt veio com esse intuito além de melhorar a sua concentração ajudará também a melhorar a sua qualidade de vida. 
+O objetivo do MoveIt é você realizar um desafio a cada ciclo de tempo, concluindo o desafio você ganhará uma pontuação, mas caso contrário você apenas falhará.
 
-![](../header.png)
+<img src="header.png" alt="Preview Project" width="741px">
 
-## Instalação
+## :rocket: Tecnologias Usada:
+- HTML5
+- CSS3
+- ReactJs
+- Next.Js
+- TypeScript
 
-OS X & Linux:
+## 💼 Ferramentas de Desenvolvimento:
+- Visual Studio Code
+- Git Bash
 
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## Exemplo de uso
-
-Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
-
-_Para mais exemplos, consulte a [Wiki][wiki]._ 
-
-## Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+## Como executar o projeto:
 
 ```sh
-make install
-npm test
+#Clone o repositório
+git clone https://github.com/LarissaCalmeida/Move-It
+
+#Instale as dependências
+npm install -g yarn
+
+#Execute
+yarn dev
+
+#Access http://localhost:3000 on your browser
 ```
 
 ## Meta
 
-Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
+Larissa Carvalho - larissa_carvalho_almeida@hotmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/larissa-carvalho-7149101b8/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-carvalho-7149101b8/" /></a>
 
-Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
+  <a href="https://www.instagram.com/lari_carvalho07/?hl=pt-br" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lari_carvalho07/?hl=pt-br"/></a>
+</p>  
 
-[https://github.com/yourname/github-link](https://github.com/othonalberto/)
 
-## Contributing
-
-1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
-3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
-4. _Push_ (`git push origin feature/fooBar`)
-5. Crie um novo _Pull Request_
-
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/seunome/seuprojeto/wiki
