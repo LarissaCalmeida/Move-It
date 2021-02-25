@@ -1,9 +1,13 @@
 # Move It
+> Projeto em Construção 
 
-Às vezes passamos horas e mais horas trabalhando na tela do computador e não paramos para movimentar o corpo ou fazer algum exercício. O moveIt veio com esse intuito além de melhorar a sua concentração ajudará também a melhorar a sua qualidade de vida. 
-O objetivo do MoveIt é você realizar um desafio a cada ciclo de tempo, concluindo o desafio você ganhará uma pontuação, mas caso contrário você apenas falhará.
+Você já passou horas trabalhando na frente do computador e no dia seguinte sentiu desconforto na coluna ou dores nas vistas? <br />
+O MoveIt veio para solucionar esse impasse. Além de melhorar a sua qualidade de vida ajudará também na sua concentração. <br />
+Você será desafiado a fazer um exercício a cada ciclo finalizado e após concluir o desafio você ganhará uma pontuação em XP, mas caso falhe você não ganhará nada a não ser dores nas costas.
+
 
 <img src="header.png" alt="Preview Project" width="741px">
+
 
 ## :rocket: Tecnologias Usada:
 - HTML5
@@ -11,12 +15,15 @@ O objetivo do MoveIt é você realizar um desafio a cada ciclo de tempo, conclui
 - ReactJs
 - Next.Js
 - TypeScript
+<br />
 
 ## 💼 Ferramentas de Desenvolvimento:
 - Visual Studio Code
 - Git Bash
+<br />
 
-## Como executar o projeto:
+
+## :computer: Como executar o projeto:
 
 ```sh
 #Clone o repositório
@@ -28,8 +35,10 @@ npm install -g yarn
 #Execute
 yarn dev
 
-#Access http://localhost:3000 on your browser
+#Acesse http://localhost:3000 em seu navegador
 ```
+<br />
+
 
 ## Meta
 
