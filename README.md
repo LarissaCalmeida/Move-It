@@ -29,6 +29,9 @@ Você será desafiado a fazer um exercício a cada ciclo finalizado e após conc
 #Clone o repositório
 git clone https://github.com/LarissaCalmeida/Move-It
 
+#Entre na pasta clonada:
+cd Move-It
+
 #Instale as dependências
 npm install -g yarn
 
